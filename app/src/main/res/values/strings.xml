@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="title">Title</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="video_player">Video Player</string>
+</resources>
