@@ -124,6 +124,7 @@ class MainActivity : AppCompatActivity() {
                 if (response.isSuccessful) {
                     loadingPB.visibility = View.GONE
                     videoList = response.body()!!
+                    videoList.sortedBy { it.publishedAt }
 
                     if (videoList.size > 0) {
                         txtName.setText(videoList.get(0).author.name)
