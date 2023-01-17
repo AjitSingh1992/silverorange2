@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_pause.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\pause.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_bg.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\drawable\\circular_bg.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_previous.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\previous.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_previous.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\previous.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_previous.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_previous.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\previous.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_pause.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\pause.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\font_caveat_regular.ttf.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\font\\caveat_regular.ttf"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_next.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\next.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_pause.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\pause.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_play.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_play.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\play.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_play.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_pause.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_play.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\play.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_previous.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\previous.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_pause.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\pause.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_next.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_next.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\next.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_next.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_previous.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\previous.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_next.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\next.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_pause.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\pause.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\font_caveat_bold.ttf.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\font\\caveat_bold.ttf"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_next.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\next.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_previous.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\previous.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_play.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_play.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_pause.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\pause.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_next.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_play.png.flat",
+        "source": "H:\\LyftInterview\\native-app-dev-2022-04-main\\android\\VideoPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\play.png"
+    }
+]
